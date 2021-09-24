@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ivan Morado, a graduating senior in Electrical Engineering at the University of Texas Rio Grande Valley!
-👀 I’m interested in lots of different things, but as of right now my main focus is in learning and mastering the optical sciences 
-and applying it towards the design of high-fidelity single photon sources, as well as building advanced imaging devices for the life sciences. 
+I’m interested in lots of different things, but as of right now my main focus is in learning and mastering the optical sciences. One of my main projects is building  an open-source optical simulation suite so that for any one interested in optics they can jump right and start learning design. I believe in learning by design. The most memorable bits of knowledge that I remember are when I actually got to apply them to some real world problem.  
 - I am also interested in photonic crystals, crystallography and using computational methods towards finding new forms of materials.
 - 🌱 I’m currently learning how to model a photonic crystal using MEEPs, an open-source software designed by MIT physicists. My current project
 involves mapping and measuring the optical properties of two silicon-nanopatterned membrane reflectors. 
