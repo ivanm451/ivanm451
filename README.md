@@ -1,4 +1,4 @@
-- Just another sentient plant interested in the development of software for all types of applications on the magical vibrating rock humans call a 'computer'.
+- Just another sentient plant interested in designing good, clean code for all types of applications on the magical vibrating rock humans call a 'computer'.
 
 <!---
 ivanm451/ivanm451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
