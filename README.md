@@ -1,4 +1,4 @@
-- Just trying to write good enough code to appease the sentient lilac overlords. 
+- I seek simple and optimized computing.  
 
 <!---
 ivanm451/ivanm451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
