@@ -1,4 +1,4 @@
-- I seek simple and optimized computing.  
+- I see you have found your way to my apothecary of silicon poetry. Please do not mind the ramblings. Have a seat and stay for the cool code.   
 
 <!---
 ivanm451/ivanm451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
