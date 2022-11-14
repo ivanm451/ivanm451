@@ -1,4 +1,4 @@
-- apprentice alchemist of spells on silicon. I do chip test and integration at IBM.     
+- I do chip test and integration at IBM for their Z and Power microprocessors. I like bringing math, computation and hardware to various fields such as physics, biology and even music! 
 
 <!---
 ivanm451/ivanm451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
