@@ -1,4 +1,4 @@
-- I see you have found your way to my apothecary of silicon alchemy. Welcome traveler, and enjoy the software potions.    
+- apprentice alchemist of spells on silicon. I do chip test and integration at IBM.     
 
 <!---
 ivanm451/ivanm451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
