@@ -1,4 +1,4 @@
-- Interested in computational mathematics, scientific modeling, programming language design, kernel development, and microprocessor design and hacking >:). 
+- Interested in computational mathematics, scientific modeling, programming language design, kernel development, embedded programming and microprocessor design and hacking >:). 
 
 <!---
 ivanm451/ivanm451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
