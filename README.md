@@ -1,4 +1,4 @@
-- hacking the processor to do cool math, physics and artsy stuff even if it's arithmetic all the way down.  
+- hacking the processor to do cool math, physics and artsy stuff, with the occasional tangent into programming language and kernel dev.  
 
 <!---
 ivanm451/ivanm451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
